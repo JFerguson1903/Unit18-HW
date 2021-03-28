@@ -16,7 +16,6 @@ SO THAT my account balance is accurate when I am traveling".
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
-  * [Tests](#tests)
   * [Questions](#questions)
   
 ## Usage
@@ -57,9 +56,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Tests
-
-<!-- fill in testing information -->
 
 ## Questions
 
