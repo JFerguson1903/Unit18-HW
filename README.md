@@ -21,7 +21,7 @@ SO THAT my account balance is accurate when I am traveling".
   
 ## Usage
 
-[Click here](https://jferguson1903.github.io/Unit18-HW/) to access the deployed application pictured below.
+[Click here](https://nameless-coast-00824.herokuapp.com/) to access the deployed application pictured below.
 
 ![image](https://user-images.githubusercontent.com/72481828/112738709-70974d00-8f33-11eb-985f-839efa1caed9.png)
 
