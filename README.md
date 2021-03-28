@@ -21,9 +21,9 @@ SO THAT my account balance is accurate when I am traveling".
   
 ## Usage
 
-<!-- [Click here](https://jferguson1903.github.io/Unit18-HW/) to access the deployed application pictured below. -->
+[Click here](https://jferguson1903.github.io/Unit18-HW/) to access the deployed application pictured below.
 
-<!-- ![about_me](https://jferguson1903.github.io/Unit8-HW/Images/HW-8.jpg) -->
+![image](https://user-images.githubusercontent.com/72481828/112738709-70974d00-8f33-11eb-985f-839efa1caed9.png)
 
 ## Credits
 
